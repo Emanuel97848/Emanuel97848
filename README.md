@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emanuel97848
+- 👋 Hi, I’m Emanuel Santos!
 - 👀 I’m interested in mechanical engineering, specialy in computational fluid dynamics.
 - 🌱 I’m currently learning some data and developement applications, as SQL and DevOps.
 - 💞️ I’m looking to collaborate on rocket propulsion applications and CFD projects.
